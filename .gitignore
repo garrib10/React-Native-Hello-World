@@ -2,6 +2,7 @@
 #
 .DS_Store
 package-lock.json
+package.json
 node_modules
 
 # Xcode
@@ -36,6 +37,8 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
+package-lock.json
+package.json
 
 # BUCK
 buck-out/
